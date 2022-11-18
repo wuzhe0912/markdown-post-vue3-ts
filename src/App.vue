@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import Timeline from './components/Timeline.vue';
 </script>
 
 <template>
   <div>
     Hello Vite with Vue 3 and TypeScript
+    <Timeline />
   </div>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
